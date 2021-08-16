@@ -1,2 +1,2 @@
 # crm_email_dev
-MJML and HTML for CRM campaigns
+Email partials for GoodRx CRM campaigns
