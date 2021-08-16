@@ -1,0 +1,16 @@
+<mjml>
+    <mj-head>
+        <mj-include path="./mjattributes.mjml" />
+        <mj-include path="./mjbreakpoint.mjml" />
+        <mj-include path="./mjfont.mjml" />
+        <mj-include path="./mjstyle.mjml" />
+    </mj-head>
+    <mj-body>
+        <mj-include path="./logo.mjml" />
+        <mj-include path="./hero.mjml" />
+        <mj-include path="./coupon.mjml" />
+        <mj-include path="./support.mjml" />
+        <mj-include path="./footer.mjml" />
+    </mj-body>
+</mjml>
+
