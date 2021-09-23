@@ -1,10 +1,10 @@
 <mj-attributes>
-    <mj-all font-family="Poppins, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" />
-    <mj-body background-color="#e5e5e5" width="650px" />
-    <mj-button background-color="#00376e" border-radius="30px" color="#fff" font-size="16px" inner-padding="15px 32px" />
-    <mj-divider border-color="#201f1b" border-width="1px" padding="0px 20px" />
+    <mj-all font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" />
+    <mj-body background-color="#e5e5e5" width="900px" />
+    <mj-button background-color="#00376E" border-radius="200px" color="#fff" font-size="18px" font-weight="400" inner-padding="18px 60px" font-family="'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" />
     <mj-hero padding="50px 0" />
-    <mj-section background-color="#fff" border-radius="0px" padding="50px 0px" />
+    <mj-section background-color="#ffffff" border-radius="0px" padding="50px 0px" />
     <mj-text color="#1b202b" font-size="16px" line-height="22px" />
+   
     <mj-title>Welcome to GoodRx</mj-title>
 </mj-attributes>

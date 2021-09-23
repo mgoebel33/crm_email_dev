@@ -1,0 +1,39 @@
+<!-- START HERO -->
+<mj-section background-color="#6ff396" padding="20px 0px 24px">
+    <mj-group css-class="banner-group" width="100%">
+        <mj-column>
+            <mj-text id="#2" align="center" css-class="headline-e1" font-size="40px" font-family="'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" font-weight="600" line-height="48px" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+            Heroes
+            </mj-text>
+            <mj-text align="center">
+                Maximum width to set in email: 650px 
+            </mj-text>
+        </mj-column>
+    </mj-group>
+</mj-section>
+<mj-section background-color="#fffffb" padding="0px 0px 0px">
+    <mj-group> 
+        <mj-column>
+           
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68dfb9e2a6353089cc87/original.png?1632266462"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68dfb9e2a6353089cc87/original.png?1632266462" alt="" padding="0px 0px 0px" />
+        </mj-column> 
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a6897e2d90e0218faedf1/original.png?1632266391"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a6897e2d90e0218faedf1/original.png?1632266391" alt="" padding="0px 0px 0px" />
+         
+        </mj-column>
+    </mj-group>
+</mj-section>
+<mj-section background-color="#fffffb" padding="0px 0px 0px">
+    <mj-group> 
+        <mj-column>
+           
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68811ddab104c2718544/original.png?1632266368"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68811ddab104c2718544/original.png?1632266368" alt="" padding="0px 0px 0px" />
+        </mj-column> 
+        <mj-column>
+
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68535fb3a0671955ed16/original.png?1632266322"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a68535fb3a0671955ed16/original.png?1632266322" alt="" padding="0px 0px 0px" />
+
+        </mj-column>
+    </mj-group>
+</mj-section>
+<!-- END HERO -->
