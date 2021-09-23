@@ -8,35 +8,58 @@
         color: inherit;
     }
 
-    
-    .button-shadow table {
-        border-radius: 12px;
-        box-shadow: 0px 1px 2px #ecbf20;
+    .button-shadow mjml {
+        border-radius: 20px;
+        box-shadow: 0px 1px 2px #f6f6f6;
     }
-    
+
     .footer a {
         color: inherit;
         font-weight: normal;
     }
-    
+
     .footer a:hover,
     .footer a:focus {
         color: #000;
     }
-
-    .link a {
-        border-bottom: 1px solid #000;
-        padding-bottom: 4px;
+    .coupon-spacing {
+        letter-spacing: 5px;
+        font-weight: bold;
     }
+    
 
     @media only screen and (max-width: 575px) {
         .centered-on-mobile div {
             text-align: center !important;
         }
 
-        .headline div {
-            font-size: 32px !important;
+        .column-headline div {
+            font-size: 18px !important;
+            line-height: 22px !important;
+        }
+
+        .headline-e1 div {
+            font-size: 30px !important;
             line-height: 36px !important;
+        }
+        .headline-e2 div {
+            font-size: 32px !important;
+            line-height: 38px !important;
+        }
+
+        .headline-e3 div {
+            font-size: 27px !important;
+            line-height: 32px !important;
+        }
+
+        .headline-e5 div {
+            font-size: 24px !important;
+            line-height: 38px !important;
+        }
+
+        .headline-e7 div {
+            font-size: 24px !important;
+            line-height: 33px !important;
         }
 
         .hide-on-mobile {
@@ -44,22 +67,43 @@
         }
 
         .logo td {
-            width: 54px !important;
+            width: 101px !important;
         }
 
         .logo td img {
-            height: 15px !important;
-            width: 54px !important;
+            height: 18px !important;
+            width: 101px !important;
+        }
+
+        .quote div {
+            font-size: 27px !important;
+            line-height: 30px !important;
         }
 
         .section-headline div {
-            font-size: 20px !important;
-            line-height: 24px !important;
+            font-size: 23px !important;
+            line-height: 33px !important;
+        }
+
+        .subheadline div {
+            font-size: 16px !important;
+            line-height: 22px !important;
         }
 
         .wrapper table td {
             padding-left: 10px !important;
             padding-right: 10px !important;
         }
+        .banner-group mj-group {
+            width: 100% !important;
+        }
+        .button-mobile table {
+            width: 95% !important;
+        }
+        .refill-ready div {
+            font-size: 20 !important;
+            line-height: 24 !important;
+        }
+        
     }
 </mj-style>

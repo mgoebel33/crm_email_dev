@@ -1,0 +1,246 @@
+<mj-section background-color="#ffffff" padding="40px 0px 24px">
+    <mj-group css-class="banner-group" width="100%">
+        <mj-column>
+            <mj-text align="center" css-class="headline-e1" font-size="40px" font-family="'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" font-weight="600" line-height="48px" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+            GoodRx CRM Image Assets for Email
+            </mj-text>
+        </mj-column>
+    </mj-group>
+</mj-section>
+<mj-section background-color="#ffffff" padding="0px 0px 24px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-text align="center">
+                <a href="#1" style="text-decoration:underline;">Icons</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-text align="center">
+                <a href="#2" style="text-decoration:underline;">Heroes</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-text align="center">
+                <a href="#3" style="text-decoration:underline;">Section images</a>
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-text align="center">
+                <a href="#4" style="text-decoration:underline;">Design elements</a>
+            </mj-text>
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<!-- START ICONS -->
+<mj-section background-color="#a2def7" padding="20px 0px 24px">
+    <mj-group css-class="banner-group" width="100%">
+        <mj-column>
+            <mj-text id="#1" align="center" css-class="headline-e1" font-size="40px" font-family="'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'" font-weight="600" line-height="48px" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+            Icons
+            </mj-text>
+            <mj-text align="center">
+                Maximum width to set in email: 240px (unless otherwise specificed)
+            </mj-text>
+        </mj-column>
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b80225fb3a04092c192f4/original.png?1632337954"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b80225fb3a04092c192f4/original.png?1632337954" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b86deb9e2a624b0f7d151/original.png?1632339678"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b86deb9e2a624b0f7d151/original.png?1632339678" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b8702e2d90e17477ec878/original.png?1632339714"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b8702e2d90e17477ec878/original.png?1632339714" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b871e39de263b71ea364a/original.png?1632339742"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b871e39de263b71ea364a/original.png?1632339742" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b873939de263899ea373f/original.png?1632339769"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b873939de263899ea373f/original.png?1632339769" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b875739de263a3bea377e/original.png?1632339799"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b875739de263a3bea377e/original.png?1632339799" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b87dee2d90e1adc7ec821/original.png?1632339934"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b87dee2d90e1adc7ec821/original.png?1632339934" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b87f51552f11e254ad5b0/original.png?1632339957"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b87f51552f11e254ad5b0/original.png?1632339957" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b8816b9e2a62420f7d0f2/original.png?1632339990"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b8816b9e2a62420f7d0f2/original.png?1632339990" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88321ddab13f01905194/original.png?1632340018"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88321ddab13f01905194/original.png?1632340018" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b885bb9e2a6238af7d22a/original.png?1632340059"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b885bb9e2a6238af7d22a/original.png?1632340059" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88791ddab13df79052a2/original.png?1632340089"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88791ddab13df79052a2/original.png?1632340089" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88a35fb3a04290c193eb/original.png?1632340131"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88a35fb3a04290c193eb/original.png?1632340131" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88cab9e2a62699f7d097/original.png?1632340170"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614b88cab9e2a62699f7d097/original.png?1632340170" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1475fb3a03ff9c1948f/original.png?1632346439"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1475fb3a03ff9c1948f/original.png?1632346439" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba16839de263a1bea3921/original.png?1632346472"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba16839de263a1bea3921/original.png?1632346472" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1831ddab13db79058c8/original.png?1632346499"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1831ddab13db79058c8/original.png?1632346499" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba19a39de263806ea3831/original.png?1632346522"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba19a39de263806ea3831/original.png?1632346522" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1c0e2d90e5ad47ec408/original.png?1632346560"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1c0e2d90e5ad47ec408/original.png?1632346560" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1e95fb3a03faec19632/original.png?1632346601"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1e95fb3a03faec19632/original.png?1632346601" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1fae2d90e23927eca86/original.png?1632346618"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba1fae2d90e23927eca86/original.png?1632346618" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba2225fb3a042d2c1946a/original.png?1632346658"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba2225fb3a042d2c1946a/original.png?1632346658" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba23d39de263877ea3824/original.png?1632346685"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba23d39de263877ea3824/original.png?1632346685" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba2501552f11dc24ad663/original.png?1632346704"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba2501552f11dc24ad663/original.png?1632346704" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba28ab9e2a623aef7d23e/original.png?1632346762"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba28ab9e2a623aef7d23e/original.png?1632346762" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba29f1552f11c374ad839/original.png?1632346783"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba29f1552f11c374ad839/original.png?1632346783" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba31e1552f11d344ad76c/original.png?1632346910"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba31e1552f11d344ad76c/original.png?1632346910" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba35b1ddab13f019056c9/original.png?1632346971"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba35b1ddab13f019056c9/original.png?1632346971" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba38139de263af8ea394b/original.png?1632347008"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba38139de263af8ea394b/original.png?1632347008" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba39f5fb3a0424ac194a9/original.png?1632347039"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba39f5fb3a0424ac194a9/original.png?1632347039" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba3c139de263a3bea3a03/original.png?1632347073"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba3c139de263a3bea3a03/original.png?1632347073" width="76px" alt="" padding="0px 0px 0px" />
+            
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba3fd1552f11ded4ad80b/original.png?1632347133"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba3fd1552f11ded4ad80b/original.png?1632347133" width="76px" alt="" padding="0px 0px 0px" />
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba612e2d90e195a7eca6f/original.png?1632347666"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba612e2d90e195a7eca6f/original.png?1632347666" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 128px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba5f81ddab13bc6905385/original.png?1632347640"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba5f81ddab13bc6905385/original.png?1632347640" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 128px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba5b75fb3a04092c19595/original.png?1632347575"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614ba5b75fb3a04092c19595/original.png?1632347575" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 128px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a69f639de26579133fa68/original.png?1632266742"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a69f639de26579133fa68/original.png?1632266742" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 114px
+            </mj-text>
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<mj-section background-color="#a2def7" padding="20px 0px 20px">
+    <mj-group css-class="banner-group" width="95%">
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a69ba1552f12a653295ca/original.png?1632266682"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a69ba1552f12a653295ca/original.png?1632266682" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 114px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a697fb9e2a6328e89cba3/original.png?1632266623"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/614a697fb9e2a6328e89cba3/original.png?1632266623" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 114px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/613a4c3e1552f12aae8d1eb8/original.png?1631210558"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/613a4c3e1552f12aae8d1eb8/original.png?1631210558" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 112px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/60cea9b41744732f94dcb85e/original.png?1624156596"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/60cea9b41744732f94dcb85e/original.png?1624156596" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 112px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/60ce981f9cb3ca2e39b5a1e8/original.png?1624152095"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/60ce981f9cb3ca2e39b5a1e8/original.png?1624152095" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 112px
+            </mj-text>
+        </mj-column>
+        <mj-column>
+            <mj-image  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/60cbfbf69cb3ca2dacb58387/original.png?1623981046"  href="https://appboy-images.com/appboy/communication/assets/image_assets/images/60cbfbf69cb3ca2dacb58387/original.png?1623981046" width="76px" alt="" padding="0px 0px 0px" />
+            <mj-text align="center">
+                Max-width: 104px
+            </mj-text>
+        </mj-column>
+        
+    </mj-group>
+</mj-section>
+<!-- END ICONS -->
